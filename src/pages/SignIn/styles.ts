@@ -47,6 +47,10 @@ export const Content = styled.div`
     display: flex;
     align-items: center;
 
+    svg {
+      margin-right: 16px;
+    }
+
     &:hover {
       color: ${shade(0.2, '#ff9000')};
     }

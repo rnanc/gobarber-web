@@ -1,5 +1,5 @@
 import React from 'react';
-import { FiPower, FiUser } from 'react-icons/fi';
+import { FiPower } from 'react-icons/fi';
 import { Container, Header, HeaderContent, Profile } from './styles';
 import { useAuth } from '../../hooks/AuthContext';
 

@@ -1,8 +1,8 @@
- <center> :scissors: <h1> GoBarber Web </h1> :scissors: </center>
+ <center>  <h1> :scissors: GoBarber Web :scissors: </h1>  </center>
 
-<img src="src/assets/home-GoBarber.png" width="33%;" >
-<img src="src/assets/dashboard-GoBarber.png" width="33%;" >
-<img src="src/assets/profile-GoBarber.png" width="33%;" >
+<img src="https://github.com/rnanc/gobarber-web/blob/master/src/assets/home-GoBarber.png" width="100%;" >
+<br>
+<img src="https://github.com/rnanc/gobarber-web/blob/master/src/assets/dashboard-GoBarber.png" width="50%;"><img src="https://github.com/rnanc/gobarber-web/blob/master/src/assets/profile-GoBarber.png" width="50%;">
 
 ## About this project
 

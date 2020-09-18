@@ -8,7 +8,7 @@
 
 Webpage used by providers to check appointments by date.
 
-### Tecnologies
+### Technologies
 
 - Typescript
 - React
